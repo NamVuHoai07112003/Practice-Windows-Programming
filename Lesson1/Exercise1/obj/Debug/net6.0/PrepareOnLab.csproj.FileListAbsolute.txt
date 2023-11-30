@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\bin\Debug\net6.0\PrepareOnLab.exe
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\bin\Debug\net6.0\PrepareOnLab.deps.json
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\bin\Debug\net6.0\PrepareOnLab.runtimeconfig.json
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\bin\Debug\net6.0\PrepareOnLab.dll
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\bin\Debug\net6.0\PrepareOnLab.pdb
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.AssemblyInfo.cs
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.dll
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\refint\PrepareOnLab.dll
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.pdb
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\PrepareOnLab.genruntimeconfig.cache
+C:\Users\Admin\Documents\C# on lab\PrepareOnLab\obj\Debug\net6.0\ref\PrepareOnLab.dll
