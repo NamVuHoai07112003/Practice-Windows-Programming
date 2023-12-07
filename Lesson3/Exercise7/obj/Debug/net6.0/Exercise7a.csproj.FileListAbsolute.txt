@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.AssemblyInfo.cs
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\bin\Debug\net6.0\Exercise7a.exe
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\bin\Debug\net6.0\Exercise7a.deps.json
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\bin\Debug\net6.0\Exercise7a.runtimeconfig.json
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\bin\Debug\net6.0\Exercise7a.dll
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\bin\Debug\net6.0\Exercise7a.pdb
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.dll
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\refint\Exercise7a.dll
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.pdb
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\Exercise7a.genruntimeconfig.cache
+C:\Users\Admin\Documents\Practice C#\Lesson3\Exercise7a\obj\Debug\net6.0\ref\Exercise7a.dll
