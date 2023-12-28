@@ -1,0 +1,5 @@
+C:\Users\pc\Downloads\C#Form\Lession2\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\pc\Downloads\C#Form\Lession2\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\pc\Downloads\C#Form\Lession2\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\C#Form\Lession2\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\pc\Downloads\C#Form\Lession2\Exercise5\obj\Debug\Exercise5.pdb
