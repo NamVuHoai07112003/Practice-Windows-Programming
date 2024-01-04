@@ -1,4 +1,4 @@
-﻿using Lesson6.Model;
+﻿using Exercise1.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace Lesson6.ViewModel
+namespace Exercise1.ViewModel
 {
 	internal class UserViewModel
 	{

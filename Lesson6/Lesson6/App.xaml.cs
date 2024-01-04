@@ -1,4 +1,4 @@
-﻿using Lesson6.ViewModel;
+﻿using Exercise1.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lesson6
+namespace Exercise1
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
@@ -17,7 +17,7 @@ namespace Lesson6
 		protected override void OnStartup(StartupEventArgs e)
 		{
 			base.OnStartup(e);
-			Lesson6.View.MainPage window = new Lesson6.View.MainPage();
+            Exercise1.View.MainPage window = new Exercise1.View.MainPage();
 			UserViewModel VM = new UserViewModel();
 			window.DataContext = VM;
 			window.Show();

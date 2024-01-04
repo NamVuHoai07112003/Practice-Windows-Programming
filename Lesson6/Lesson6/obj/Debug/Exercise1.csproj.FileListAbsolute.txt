@@ -1,0 +1,34 @@
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\MainWindow.g.cs
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\View\MainPage.g.cs
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\App.g.cs
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\MainWindow.baml
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\View\MainPage.baml
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.GenerateResource.cache
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1_MarkupCompile.cache
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1_MarkupCompile.lref
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\bin\Debug\Exercise1.exe.config
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\bin\Debug\Exercise1.exe
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\bin\Debug\Exercise1.pdb
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.g.resources
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.Properties.Resources.resources
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.exe
+O:\Code\C# Window Form Applications\C# Github Practice\Nhựt Practice\Lesson6\Lesson6\obj\Debug\Exercise1.pdb
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\bin\Debug\Exercise1.exe.config
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\bin\Debug\Exercise1.exe
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\bin\Debug\Exercise1.pdb
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\View\MainPage.g.cs
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1_MarkupCompile.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1_MarkupCompile.lref
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\View\MainPage.baml
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.g.resources
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.exe
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson6\Lesson6\obj\Debug\Exercise1.pdb

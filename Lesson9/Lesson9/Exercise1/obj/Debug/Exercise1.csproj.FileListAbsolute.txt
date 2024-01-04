@@ -1,0 +1,30 @@
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.exe.config
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.exe
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.pdb
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.dll
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.xml
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.Form1.resources
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.exe
+O:\Code\C# Window Form Applications\C# Github Practice\No Touch'\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.Form1.resources
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Khang\NguyenKhang_CMP371_Windows\Lesson9\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete

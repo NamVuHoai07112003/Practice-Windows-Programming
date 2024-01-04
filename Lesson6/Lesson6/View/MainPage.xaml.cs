@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Lesson6.View
+namespace Exercise1.View
 {
 	/// <summary>
 	/// Interaction logic for MainPage.xaml
